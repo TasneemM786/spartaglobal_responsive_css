@@ -1,0 +1,1 @@
+# spartaglobal_responsive_css
